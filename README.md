@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Engineer with **5+ years of experience** building scalable applications and AI solutions. I specialize in backend architecture, cloud infrastructure, and system optimization.
+I'm a Software Engineer who loves to build scalable applications and AI solutions. I specialize in backend architecture, cloud infrastructure, and system optimization.
 
 - 🔭 **I’m currently working on:** AI-powered language translation tools for African languages.
 - 🛠 **Core Stack:** Python (Django/FastAPI), C, TypeScript (React Native), Docker, AWS, Huawei Cloud.
